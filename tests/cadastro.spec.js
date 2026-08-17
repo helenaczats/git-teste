@@ -1,0 +1,3 @@
+// Suíte de Testes - Módulo de Cadastro de Usuários
+console.log("CT-01: Validar login com sucesso - VERSAO DO MEU COMPUTADOR");
+console.log("CT-04: Validar mensagem de erro ao cadastrar e-mail já existente");
